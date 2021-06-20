@@ -17,7 +17,7 @@ In our design, recipients subscribe to receive messages by agreeing on a outbox 
 
 Waggle is currently under active development and the prototype was presented in the Swarm One mainnet release event.
 
-We expect to release it in 2021. Please follow us to receive updates about the project.
+We expect to release Waggle in 2021. Please follow us to receive updates about the project.
 
 ## Protocol Overview
 
