@@ -1,6 +1,6 @@
 # [Waggle](https://waggle.eth.link)
 
-A spam-free, privacy-preserving and encrypted communication protocol on top of [Swarm](https://swarm.ethereum.org/).
+A spam-free, privacy-preserving and encrypted communication protocol on top of [Swarm](https://www.ethswarm.org/).
 
 ## The Name
 
