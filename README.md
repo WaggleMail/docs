@@ -1,4 +1,4 @@
-# [Waggle](https://waggle.eth.link)
+# Waggle
 
 A spam-free, privacy-preserving and encrypted communication protocol on top of [Swarm](https://www.ethswarm.org/).
 
